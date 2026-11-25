@@ -5,5 +5,5 @@ the zip it names. Published with `npm run publish:friend` from the main repo.
 
 Latest: v1 (2026-11-25). First release with automatic updates: new versions now install by themselves through the helper.
 
-To install by hand: download the newest zip in `releases/`, unzip it, and follow
-"READ ME FIRST.txt" inside.
+First install: download https://github.com/chensam93/job-autofill-friend-updates/raw/main/job-autofill-friend.zip
+(always the newest copy), unzip it, and follow "READ ME FIRST.txt" inside.
