@@ -1,0 +1,10 @@
+[
+  {
+    "version": 1,
+    "publishedAt": "2026-11-25T02:32:40.168Z",
+    "notes": "First release with automatic updates: new versions now install by themselves through the helper.",
+    "zip": "releases/job-autofill-friend-v1.zip",
+    "size": 1584595,
+    "sha256": "636c8e207430857fe1111cb6353c4623923333884ee54c2d03f592cfccdfc04f"
+  }
+]
